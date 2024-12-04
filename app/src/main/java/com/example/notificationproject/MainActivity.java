@@ -23,8 +23,8 @@ public class MainActivity extends AppCompatActivity {
 
     private static final String CHANEL_ID = "CODING";
     private static final String CHANEL_NAME = "CODING2";
-
-    private static final String CHANEL_DESC = "CODING4";
+    private static final String CHANEL_DESC = "CODING3";
+    private static final String CHANEL_DEC = "CODING4";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
